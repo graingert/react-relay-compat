@@ -1,15 +1,15 @@
 {
   "name": "react-relay-compat",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Import react-relay/classic or react-relay",
   "main": "index.js",
   "repository": "git@github.com:graingert/react-relay-compat.git",
   "author": "tagrain@gmail.com",
   "license": "MIT",
   "peerDependencies": {
-    "react-relay": "^0.1.0"
+    "react-relay": "^1.0.0"
   },
   "devDependencies": {
-    "react-relay": "^0.9.0"
+    "react-relay": "^1.1.0"
   }
 }
